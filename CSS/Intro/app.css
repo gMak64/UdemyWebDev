@@ -1,0 +1,19 @@
+h1 {
+    color: #4d4d4d;
+    border-color: #f16a70;
+    border-width: 3px;
+    border-style: solid;
+}
+
+h4 {
+    color: #4d4d4d;
+}
+
+li {
+    color: #f16a70;
+}
+
+body {
+    color: #4d4d4d;
+    background: #8cdcda;
+}

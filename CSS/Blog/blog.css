@@ -1,0 +1,38 @@
+body {
+  width: 80%;
+  border: 20px solid #6d5353;
+  font-family: 'Kalam', cursive;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 700px;
+}
+
+.post {
+  margin-bottom: 20px;
+}
+
+.date {
+  color: #068465;
+  letter-spacing: 0.3rem;
+  text-transform: uppercase;
+}
+
+.quote{
+  border-left: 5px solid #6d5353;
+  padding-left: 5px;
+}
+
+h2 {
+  font-family: 'Permanent Marker', cursive;
+  letter-spacing: 0.1em;
+  font-size: 2.0rem;
+  font-weight: bold;
+  color: #044736
+}
+
+hr {
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(167, 65, 74, 0.2);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
